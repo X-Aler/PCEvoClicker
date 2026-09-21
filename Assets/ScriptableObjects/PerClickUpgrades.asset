@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b4c90a524550747929be28d60416fd, type: 3}
+  m_Name: PerClickUpgrades
+  m_EditorClassIdentifier: Assembly-CSharp:Assets.Scripts:UpgradesLevelData
+  upgrades:
+  - level: 1
+    value: 1
+    cost: 0
+    image: {fileID: 21300000, guid: 4ac13a2a2a8281149bdda12c102e833c, type: 3}
+  - level: 2
+    value: 5
+    cost: 50
+    image: {fileID: 21300000, guid: db859486a255d9743a57f445bd45cd8a, type: 3}
+  - level: 3
+    value: 35
+    cost: 1000
+    image: {fileID: 21300000, guid: fea79a8e0b5454349ab3fbd5e6f3901c, type: 3}
+  - level: 4
+    value: 100
+    cost: 30000
+    image: {fileID: 21300000, guid: 73ae7628bc1bd734aae57125a014093b, type: 3}
+  - level: 5
+    value: 1500
+    cost: 200000
+    image: {fileID: 21300000, guid: 5f036c04c188f15479c04a6a10598eed, type: 3}
+  upgradeType: 0

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11b4c90a524550747929be28d60416fd, type: 3}
+  m_Name: MulitplerUpgrades
+  m_EditorClassIdentifier: Assembly-CSharp:Assets.Scripts:UpgradesLevelData
+  upgrades:
+  - level: 1
+    value: 0.5
+    cost: 0
+    image: {fileID: 21300000, guid: ff58c6f6d0a1c0f4db20369c72a5b4de, type: 3}
+  - level: 2
+    value: 1
+    cost: 375
+    image: {fileID: 21300000, guid: cdb0463b1378060489d77b931f509a1e, type: 3}
+  - level: 3
+    value: 3
+    cost: 8500
+    image: {fileID: 21300000, guid: 245ec2a149c959b4ea85b343ae498112, type: 3}
+  - level: 4
+    value: 5
+    cost: 95000
+    image: {fileID: 21300000, guid: 33caffd2ca242b344b4fe247a495541b, type: 3}
+  - level: 5
+    value: 10
+    cost: 3750000
+    image: {fileID: 21300000, guid: 5d490641d3e807f4ab1c7eb93c3cd11e, type: 3}
+  upgradeType: 1
