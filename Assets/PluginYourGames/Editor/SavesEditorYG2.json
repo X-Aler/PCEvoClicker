@@ -1,0 +1,14 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 23,
+    "Coins": 4380376.0,
+    "perClickLvl": 5,
+    "multiplerLvl": 5
+}

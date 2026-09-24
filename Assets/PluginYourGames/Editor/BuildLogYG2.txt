@@ -1,0 +1,3 @@
+﻿Build path: D:/Games/PCEvoClicker
+Build number: 7
+PluginYG version: 2.0092

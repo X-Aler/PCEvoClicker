@@ -19,18 +19,18 @@ MonoBehaviour:
     image: {fileID: 21300000, guid: ff58c6f6d0a1c0f4db20369c72a5b4de, type: 3}
   - level: 2
     value: 1
-    cost: 375
+    cost: 750
     image: {fileID: 21300000, guid: cdb0463b1378060489d77b931f509a1e, type: 3}
   - level: 3
     value: 3
-    cost: 8500
+    cost: 17000
     image: {fileID: 21300000, guid: 245ec2a149c959b4ea85b343ae498112, type: 3}
   - level: 4
     value: 5
-    cost: 95000
+    cost: 200000
     image: {fileID: 21300000, guid: 33caffd2ca242b344b4fe247a495541b, type: 3}
   - level: 5
     value: 10
-    cost: 3750000
+    cost: 7500000
     image: {fileID: 21300000, guid: 5d490641d3e807f4ab1c7eb93c3cd11e, type: 3}
   upgradeType: 1
